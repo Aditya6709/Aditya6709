@@ -1,19 +1,18 @@
 ## 👋 Hi, I'm Aditya Gautam!
 
-I'm an **Electronics and Communication Engineering (ECE)** undergraduate with a passion for **data science**, **machine learning**, and **Android development**. I enjoy solving real-world problems by building intelligent systems, blending innovation with engineering principles.
+I'm an **Electronics and Communication Engineering (ECE)** undergraduate with a passion for **Full Stack Development**. I enjoy solving real-world problems by building intelligent systems, blending innovation with engineering principles.
 
 ---
 
 ## 🔧 Skills
-- **Programming Languages:** Python, Java, Kotlin
-- **Machine Learning Frameworks:** TensorFlow, PyTorch
-- **Tools & Platforms:** Android Studio, Streamlit, Supabase
-- **Development Environments:** WSL (Windows Subsystem for Linux), Kaggle Notebooks
-
+- **Programming Languages:** C++,C,Javascript,HTML5,Tailwind CSS
+- **Tools & Frameworks:**  Reactjs,NextJS,Nodejs,Expressjs
+- **Dev-Ops:** Vercel,Netlify
+- **Database:** Mongodb ,Firebase
 ---
 
 ## 💻 Projects
-### 1. **Music Genre Classification App** 🎵  
+### 1. **Social-Media Platform** 🎵  
 - **Overview:**  
   Developed a machine learning model to classify music genres based on audio features. The app analyzes audio files provided by users and predicts the genre with high accuracy.  
 
@@ -40,7 +39,7 @@ I'm an **Electronics and Communication Engineering (ECE)** undergraduate with a 
   Simplifies music genre identification for music enthusiasts, DJs, and producers, while showcasing the power of machine learning in audio classification.  
 
 
-### 2. **Resume Ranking System** 📄    
+### 2. **CV-analyzer** 📄    
 - **Overview:**  
   A system designed to automatically categorize and rank resumes by specific domains (e.g., Data Science, Web Design, Java Development). It helps recruiters and hiring managers streamline the hiring process by identifying the best candidates based on required skills.  
 
@@ -53,9 +52,9 @@ I'm an **Electronics and Communication Engineering (ECE)** undergraduate with a 
   - In the recruiter section, a recruiter can see the leaderboard of any domain and can also download any resume with the available download link.
 
 - **Tech Stack:**  
-  - **Backend:** Python, Resume Parsing with libraries like **PyPDF2** and **spaCy**   
+  - **Backend:** Express js**   
   - **Storage:** **Supabase** bucket to store resumes in organized folders.  
-  - **Deployment:** Deployed on **Streamlit** for easy accessibility.  
+  - **Deployment:** Deployed on **Streamlit** for easy accessibility. The web version is not yet deployed.  
 
 - **Challenges Solved:**  
   - Efficiently extracting and analyzing data from various resume formats (PDF, Docx).  
@@ -79,6 +78,7 @@ I'm an **Electronics and Communication Engineering (ECE)** undergraduate with a 
 
 ## 📫 Let's Connect!
 - **Email:** adityagautam0601@gmail.com
+- **Linkdin:** https://www.linkedin.com/in/aditya-gautam-65419b299/
 
   
 Feel free to explore my repositories to see what I'm up to! Let's collaborate and build something amazing together. 🚀
