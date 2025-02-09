@@ -28,7 +28,7 @@ I'm an **Electronics and Communication Engineering (ECE)** undergraduate with a 
   - **Backend:** NXT js , firebase 
   - **Frontend:** NXT js 
   - **Deployment:** Hosted  on **vercel**
-  - **Database:**MongoDB Atlas**
+  - **Database**:**MongoDB Atlas**
 
 - **Future Improvements:**  
   - Expanding the app for more features
