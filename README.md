@@ -5,8 +5,8 @@ I'm an **Electronics and Communication Engineering (ECE)** undergraduate with a 
 ---
 
 ## 🔧 Skills
-- **Programming Languages:** C++,C,Javascript,HTML5,Tailwind CSS
-- **Tools & Frameworks:**  Reactjs,NextJS,Nodejs,Expressjs
+- **Programming Languages:** C++,C,Javascript,HTML5,CSS
+- **Tools & Frameworks:**  Reactjs,NextJS,Nodejs,Expressjs,Tailwind 
 - **Dev-Ops:** Vercel,Netlify
 - **Database:** Mongodb ,Firebase
 ---
