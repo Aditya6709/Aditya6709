@@ -14,29 +14,27 @@ I'm an **Electronics and Communication Engineering (ECE)** undergraduate with a 
 ## 💻 Projects
 ### 1. **Social-Media Platform** 🎵  
 - **Overview:**  
-  Developed a machine learning model to classify music genres based on audio features. The app analyzes audio files provided by users and predicts the genre with high accuracy.  
+  Built my own social media platform from scratch        where you can safely share your thoughts without    risking your privacy .  
 
 - **Key Features:**  
-  - Extracts and processes audio features like **MFCCs (Mel-frequency Cepstral Coefficients)**, chroma, and spectral contrast using libraries like **Librosa**.  
-  - Trained a deep learning model using **TensorFlow/Keras** for robust classification.  
-  - Offers a user-friendly interface where users can upload audio files and receive predictions in real-time.  
+  - Authentication:firebase authentication for safe google login 
+- Follow/unfollow users 
+- Adding favorites to see posts according to your liking.
+- Personalized Settings page to change username, email and favorites 
+- Live posts (only followed user posts are visible)
+- Like post feature 
 
 - **Tech Stack:**  
-  - **Backend:** Python, TensorFlow, Librosa  
-  - **Frontend:** Streamlit (for web app)
-  - **Deployment:** Hosted the model on **Streamlit**
-
-- **Challenges Solved:**  
-  - Optimized the model to handle varying audio qualities and file formats.  
-  - Enhanced performance by normalizing audio input and reducing noise in datasets.  
+  - **Backend:** NXT js , firebase 
+  - **Frontend:** NXT js 
+  - **Deployment:** Hosted  on **vercel**
+  - **Database:**MongoDB Atlas**
 
 - **Future Improvements:**  
-  - Expanding the dataset for better accuracy across diverse music genres.  
-  - Adding support for real-time genre prediction from live audio recordings.  
-  - Enabling recommendations for similar songs/artists based on genre predictions.  
-
-- **Impact:**  
-  Simplifies music genre identification for music enthusiasts, DJs, and producers, while showcasing the power of machine learning in audio classification.  
+  - Expanding the app for more features
+  - Adding support for real-time chatting .  
+  - Adding videos and images to post using  cloud storage 
+   
 
 
 ### 2. **CV-analyzer** 📄    
