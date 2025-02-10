@@ -12,7 +12,7 @@ I'm an **Electronics and Communication Engineering (ECE)** undergraduate with a 
 ---
 
 ## 💻 Projects
-### 1. **Social-Media Platform** 🎵  
+### 1. **Social-Media Platform** 👥 
 - **Overview:**  
   Built my own social media platform from scratch        where you can safely share your thoughts without    risking your privacy .  
 
