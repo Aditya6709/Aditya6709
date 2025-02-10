@@ -26,7 +26,7 @@ I'm an **Electronics and Communication Engineering (ECE)** undergraduate with a 
 
 - **Tech Stack:**  
   - **Backend:** NXT js , firebase 
-  - **Frontend:** NXT js 
+  - **Frontend:** NXT js **
   - **Deployment:** Hosted  on **vercel**
   - **Database**:**MongoDB Atlas**
 
