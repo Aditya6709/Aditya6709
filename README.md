@@ -25,8 +25,8 @@ I'm an **Electronics and Communication Engineering (ECE)** undergraduate with a 
 - Like post feature 
 
 - **Tech Stack:**  
-  - **Backend:** NXT js , firebase 
-  - **Frontend: NXT js 
+  - **Backend**: **NXT js** , firebase 
+  - **Frontend**: NXT js 
   - **Deployment:** Hosted  on **vercel**
   - **Database**:**MongoDB Atlas**
 
@@ -50,9 +50,9 @@ I'm an **Electronics and Communication Engineering (ECE)** undergraduate with a 
   - In the recruiter section, a recruiter can see the leaderboard of any domain and can also download any resume with the available download link.
 
 - **Tech Stack:**  
-  - **Frontend** : Reactjs
-  - **Backend:**Express js**   
-  - **Storage:** **Supabase** bucket to store
+  - **Frontend**:**Reactjs**
+  - **Backend** :**Express js**   
+  - **Storage** :**Supabase** bucket to store
  resumes in organized folders.  
   - **Deployment:** Deployed on **Streamlit** for easy accessibility. The web version is not yet deployed.  
 
